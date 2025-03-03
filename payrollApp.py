@@ -5,9 +5,9 @@ def heading():
     today = date.today()
     
     # Information about you
-    name = "Oumar Guaye"
-    hometown = "Fort Lauderdale, USA"
-    major = "Technology Project Management"
+    name = "john doe"
+    hometown = "seattle, USA"
+    major = "Technology Project "
     hobbies = "Reading, Cooking, Hiking"
     activities = "A businessman"
     
