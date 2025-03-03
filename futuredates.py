@@ -7,7 +7,7 @@ def get_today_date():
 def display_header(today_date):
     # Output the formatted information
     print("************************************************************")
-    print(f"Name: OUMAR GUEYE \\")
+    print(f"Name: john doe \\")
     print(f"Purpose: Program general purpose \\")
     print(f"Date: {today_date}")
     print("************************************************************")
