@@ -6,7 +6,7 @@ def heading():
     today_date = datetime.now().strftime("%Y-%m-%d")
 
     # name and other details
-    name = "Oumar Guaye"  
+    name = "john doe"  
     purpose = "Program general purpose"
 
     # Print the output 
